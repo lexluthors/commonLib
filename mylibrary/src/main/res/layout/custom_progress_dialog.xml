@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:layout_centerInParent="true"
+              android:background="@drawable/transparent_circle_background"
+              android:gravity="center"
+              android:orientation="vertical">
+
+    <com.jaywei.mdprogress.CircularProgressBar
+        android:layout_width="30dp"
+        app:cpb_color="@color/white"
+        android:layout_height="30dp"
+        android:layout_marginBottom="14.0dip"
+        android:layout_marginTop="14.0dip"
+        android:indeterminate="true"
+        />
+
+    <TextView
+        android:id="@+id/dialogText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="加载中..."
+        android:textColor="@color/white"
+        android:textSize="16.0sp"/>
+
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">@android:color/white</color>
+    <color name="transparent01">#1A000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="btn_gray_pressed_status">#b5b5b6</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="btn_blue_normal">#1e90ff</color>
+    <color name="btn_blue_pressed">#0066FF</color>
+    <color name="translucent03">#35000000</color>
+    <color name="translucent01">#55000000</color>
+    <color name="translucent02">#7dffffff</color>
+    <!--规范-->
+    <!--<color name="text_regist">#0090ff</color>-->
+    <color name="menu_text">#124562</color>
+    <color name="red">#F23829</color>
+    <color name="text_regist">#3b9cd4</color>
+    <color name="text">#333333</color>
+    <color name="text26">#262626</color>
+    <color name="text_hint3">#B3B3B3</color>
+    <color name="text_hint">#999999</color>
+    <!--<color name="line">#adadad</color>-->
+    <color name="line">#dfdfdf</color>
+    <color name="bg_color">#f7f5f5</color>
+    <color name="text_gray">#545454</color>
+    <color name="qr_border">#05B1f1</color>
+    <color name="indicator_line">#42C749</color>
+    <color name="unactive_text">#4f5059</color>
+    <color name="black">#000000</color>
+    <color name="text_color">#333333</color>
+    <color name="gray_text_color">#666666</color>
+    <color name="divider_line">#eeeeee</color>
+    <color name="yellow_text">#FFC12D</color>
+    <color name="gray9">#999999</color>
+    <color name="cicle_bg">#D2D2D2</color>
+
+    <color name="one_bg">#ECCE51</color>
+    <color name="two_bg">#C8C9D9</color>
+    <color name="three_bg">#E6D0A8</color>
+    <color name="translucent">#00000000</color>
+    <color name="color_transparent_8000">#88000000</color>
+    <color name="alpha_40_black">#66000000</color>
+    <!-- app背景 -->
+    <color name="app_bg_color">#F7F7F7</color>
+</resources>
