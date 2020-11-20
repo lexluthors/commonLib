@@ -15,7 +15,7 @@ public class AppUtil {
     /**
      * 初始化工具类
      *
-     * @param context 上下文
+     * @param context 上下文 我草测试
      */
     public static void init(Context context) {
         AppUtil.context = context.getApplicationContext();

@@ -1,4 +1,3 @@
-package com.myf.douyintool.utils
 
 import android.app.AlarmManager
 import android.app.PendingIntent

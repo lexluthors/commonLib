@@ -1,5 +1,3 @@
-package com.myf.douyintool.utils
-
 import android.content.Context
 import android.content.Intent
 import android.graphics.Bitmap
