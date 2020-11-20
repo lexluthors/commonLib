@@ -7,7 +7,7 @@ public class BaseResponse<T> implements ErrorStatus{
 
     @SerializedName("ret")
     public int status;
-    @SerializedName("messagewocaonima")
+    @SerializedName("message")
     public String message;
     @SerializedName("data")
     public T data;
